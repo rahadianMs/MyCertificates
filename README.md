@@ -10,7 +10,7 @@ Selamat datang di portofolio sertifikat saya! Di bawah ini adalah kumpulan penca
 - ✨ [AI Praktis untuk Produktivitas (Dicoding)](https://www.dicoding.com/certificates/N9ZO98ME6XG5)  
 - 🧬 [Belajar Penggunaan Generative AI (Dicoding)](https://www.dicoding.com/certificates/1OP829WLVPQK)  
 - 🔍 [Belajar Fundamental Deep Learning (Dicoding)](https://www.dicoding.com/certificates/53XEDNOD9PRN)  
-- 📊 [Belajar Penerapan Data Science (Dicoding)](https://www.dicoding.com/certificates/53XED827VPRN) ⭐ *Capstone dari Learning Path Data Science Dicoding*  
+- 📊 [Belajar Penerapan Data Science (Dicoding)](https://www.dicoding.com/certificates/53XED827VPRN) 
 - 🏅 [IDCamp 2024: Data Scientist Intermediate Level](https://drive.google.com/file/d/1Xsf_vQB4WgYIM17jiEIRr0kn8bBAvE_t/view?usp=sharing)
 
 ---
