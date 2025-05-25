@@ -12,7 +12,7 @@ Welcome to my certificate portfolio! Below is a collection of my achievements in
 
 ---
 
-## 📈 Data Science & Analytics
+## 📈 Data Science 
 
 ### 🤖 Machine Learning & Deep Learning
 - 🧑‍💻 [TensorFlow Developer Certificate](https://www.credential.net/4fb297c2-e92b-4618-b966-cf7d3ade9e99)  
