@@ -1,17 +1,14 @@
 # 🎓 My Professional Certifications Portfolio
 
-Selamat datang di portofolio sertifikat saya! Di bawah ini adalah kumpulan pencapaian saya dalam bidang **Data Science**, **Artificial Intelligence (AI)**, **Urban Planning**, **Digital Marketing**, dan lainnya. Setiap sertifikat mewakili langkah dalam perjalanan saya mengembangkan kompetensi dan kontribusi di berbagai bidang multidisipliner.
+Welcome to my certificate portfolio! Below is a collection of my achievements in the fields of **Data Science**, **Artificial Intelligence (AI)**, **Urban Planning**, **Digital Marketing**, and more. Each certificate represents a step in my journey of developing competencies and contributions in various multidisciplinary fields.
 
 ---
 
-## 🤖 Artificial Intelligence (AI)
+## 🤖 Generative AI
 
 - 🧠 [Belajar Dasar AI (Dicoding)](https://www.dicoding.com/certificates/1OP8WMEGQXQK)  
 - ✨ [AI Praktis untuk Produktivitas (Dicoding)](https://www.dicoding.com/certificates/N9ZO98ME6XG5)  
 - 🧬 [Belajar Penggunaan Generative AI (Dicoding)](https://www.dicoding.com/certificates/1OP829WLVPQK)  
-- 🔍 [Belajar Fundamental Deep Learning (Dicoding)](https://www.dicoding.com/certificates/53XEDNOD9PRN)  
-- 📊 [Belajar Penerapan Data Science (Dicoding)](https://www.dicoding.com/certificates/53XED827VPRN) ⭐ 
-- 🏅 [IDCamp 2024: Data Scientist Intermediate Level](https://drive.google.com/file/d/1Xsf_vQB4WgYIM17jiEIRr0kn8bBAvE_t/view?usp=sharing)
 
 ---
 
@@ -26,6 +23,9 @@ Selamat datang di portofolio sertifikat saya! Di bawah ini adalah kumpulan penca
 - 🤖 [Machine Learning Specialization (Andrew Ng)](https://coursera.org/share/53267bb5104872981f99cd96ed18e2b1)  
 - ➗ [Mathematics for Machine Learning and Data Science](https://coursera.org/share/90ff117a3788ce90cab1d9cadc7b4cf8)  
 - 🛠️ [Structuring Machine Learning Projects](https://coursera.org/share/cec8af255dd7a5f85f19147612c0753b)
+- 🔍 [Belajar Fundamental Deep Learning (Dicoding)](https://www.dicoding.com/certificates/53XEDNOD9PRN)
+- 🏅 [IDCamp 2024: Data Scientist Intermediate Level](https://drive.google.com/file/d/1Xsf_vQB4WgYIM17jiEIRr0kn8bBAvE_t/view?usp=sharing)
+- 📊 [Belajar Penerapan Data Science (Dicoding)](https://www.dicoding.com/certificates/53XED827VPRN) ⭐ 
 
 ### 📊 Data Analytics
 - 📈 [Google Data Analytics Professional Certificate](https://www.credly.com/badges/e74c6176-643e-4b92-b8bf-6bd765f58be9/linked_in_profile)  
@@ -88,4 +88,4 @@ Selamat datang di portofolio sertifikat saya! Di bawah ini adalah kumpulan penca
 
 ---
 
-🧩 **Catatan:** Portofolio ini terus berkembang seiring perjalanan pembelajaran saya. Terima kasih telah menyimak!
+🧩 **Catatan:** This portfolio continues to evolve as my learning journey progresses. Thank you !
