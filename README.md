@@ -23,6 +23,8 @@ Welcome to my certificate portfolio! Below is a collection of my achievements in
 - 🤖 [Machine Learning Specialization (Andrew Ng)](https://coursera.org/share/53267bb5104872981f99cd96ed18e2b1)  
 - ➗ [Mathematics for Machine Learning and Data Science](https://coursera.org/share/90ff117a3788ce90cab1d9cadc7b4cf8)  
 - 🛠️ [Structuring Machine Learning Projects](https://coursera.org/share/cec8af255dd7a5f85f19147612c0753b)
+- 📚 [Belajar Dasar Data Science](https://www.dicoding.com/certificates/07Z68D8MMXQR)
+- 🧪 [Belajar Machine Learning untuk Pemula](https://www.dicoding.com/certificates/81P27EQQ8ZOY)  
 - 🔍 [Belajar Fundamental Deep Learning (Dicoding)](https://www.dicoding.com/certificates/53XEDNOD9PRN)
 - 🏅 [IDCamp 2024: Data Scientist Intermediate Level](https://drive.google.com/file/d/1Xsf_vQB4WgYIM17jiEIRr0kn8bBAvE_t/view?usp=sharing)
 - 📊 [Belajar Penerapan Data Science (Dicoding)](https://www.dicoding.com/certificates/53XED827VPRN) ⭐ 
@@ -30,6 +32,8 @@ Welcome to my certificate portfolio! Below is a collection of my achievements in
 ### 📊 Data Analytics
 - 📈 [Google Data Analytics Professional Certificate](https://www.credly.com/badges/e74c6176-643e-4b92-b8bf-6bd765f58be9/linked_in_profile)  
 - 💾 [Microsoft Azure Data Fundamentals](https://drive.google.com/file/d/1ec509yioW5joh1FYtCnxoDl8-HFRMQM2/view)
+- 📊 [Belajar Dasar Visualisasi Data](https://www.dicoding.com/certificates/1RXY1Q5GQPVM)  
+- 📉 [Belajar Analisis Data dengan Python](https://www.dicoding.com/certificates/QLZ9RWOGDP5D)  
 
 ---
 
@@ -37,15 +41,11 @@ Welcome to my certificate portfolio! Below is a collection of my achievements in
 
 - 🐍 [Google IT Automation with Python](https://www.credly.com/badges/0dfb5564-1d4a-4920-b7ab-f023814821ca/linked_in_profile)  
 - 📌 [Belajar Pemrograman Prosedural dengan Python](https://www.dicoding.com/certificates/4EXGK3MDDZRL)  
-- 📊 [Belajar Dasar Visualisasi Data](https://www.dicoding.com/certificates/1RXY1Q5GQPVM)  
-- 📉 [Belajar Analisis Data dengan Python](https://www.dicoding.com/certificates/QLZ9RWOGDP5D)  
-- 🧪 [Belajar Machine Learning untuk Pemula](https://www.dicoding.com/certificates/81P27EQQ8ZOY)  
 - 🚀 [Memulai Pemrograman dengan Python](https://www.dicoding.com/certificates/0LZ0QKOONZ65)  
 - 🗃️ [Belajar SQL](https://www.dicoding.com/certificates/EYX4Y411JZDL)  
 - 💻 [Dasar Pemrograman untuk Pengembang Software](https://www.dicoding.com/certificates/JMZV9KRENPN9)  
 - 🔄 [Dasar Git & GitHub](https://www.dicoding.com/certificates/1RXY6GGW3ZVM)  
 - 🧠 [Logika Pemrograman 101](https://www.dicoding.com/certificates/2VX3JQJ6JPYQ)  
-- 📚 [Belajar Dasar Data Science](https://www.dicoding.com/certificates/07Z68D8MMXQR)  
 ---
 
 ## 🌍 Urban & Regional Planning
@@ -80,7 +80,7 @@ Welcome to my certificate portfolio! Below is a collection of my achievements in
 
 ---
 
-## 🇬🇧 English Skills
+## 🗣️ English Skills
 
 - 💼 [English for Business Communication](https://drive.google.com/file/d/19VXbD1DpbsbWOYjpjbH0Io6U5Tndfjk_/view?usp=sharing)  
 - 📘 [English for Adults: High-Intermediate Levels](https://drive.google.com/file/d/19VXbD1DpbsbWOYjpjbH0Io6U5Tndfjk_/view?usp=sharing)  
@@ -88,4 +88,4 @@ Welcome to my certificate portfolio! Below is a collection of my achievements in
 
 ---
 
-🧩 **Catatan:** This portfolio continues to evolve as my learning journey progresses. Thank you !
+🧩 **Notes:** This portfolio continues to evolve as my learning journey progresses. Thank you !
