@@ -10,7 +10,7 @@ Selamat datang di portofolio sertifikat saya! Di bawah ini adalah kumpulan penca
 - ✨ [AI Praktis untuk Produktivitas (Dicoding)](https://www.dicoding.com/certificates/N9ZO98ME6XG5)  
 - 🧬 [Belajar Penggunaan Generative AI (Dicoding)](https://www.dicoding.com/certificates/1OP829WLVPQK)  
 - 🔍 [Belajar Fundamental Deep Learning (Dicoding)](https://www.dicoding.com/certificates/53XEDNOD9PRN)  
-- 📊 [Belajar Penerapan Data Science (Dicoding)](https://www.dicoding.com/certificates/53XED827VPRN) 
+- 📊 [Belajar Penerapan Data Science (Dicoding)](https://www.dicoding.com/certificates/53XED827VPRN) ⭐ 
 - 🏅 [IDCamp 2024: Data Scientist Intermediate Level](https://drive.google.com/file/d/1Xsf_vQB4WgYIM17jiEIRr0kn8bBAvE_t/view?usp=sharing)
 
 ---
@@ -46,7 +46,6 @@ Selamat datang di portofolio sertifikat saya! Di bawah ini adalah kumpulan penca
 - 🔄 [Dasar Git & GitHub](https://www.dicoding.com/certificates/1RXY6GGW3ZVM)  
 - 🧠 [Logika Pemrograman 101](https://www.dicoding.com/certificates/2VX3JQJ6JPYQ)  
 - 📚 [Belajar Dasar Data Science](https://www.dicoding.com/certificates/07Z68D8MMXQR)  
-
 ---
 
 ## 🌍 Urban & Regional Planning
@@ -59,4 +58,34 @@ Selamat datang di portofolio sertifikat saya! Di bawah ini adalah kumpulan penca
 
 ## 🌐 GIS (Geographic Information Systems)
 
-- 🛰️ [GIS for]()
+- 🛰️ [GIS for Climate Action – Esri](https://www.esri.com/training/TrainingRecord/Certificate/rahadian_ms/65a9e3a6205bd152756c6aed/-420)  
+- 🌎 [Spatial Analysis – Esri](https://www.esri.com/training/TrainingRecord/Certificate/rahadian_ms/65a9e2f9205bd152756c4de9/-420)  
+- 🏗️ [GIS and BIM – Esri](https://www.esri.com/training/TrainingRecord/Certificate/rahadian_ms/65a9e3bc205bd152756c6db8/-420)  
+- 💡 [Spatial Data Science – Esri](https://www.esri.com/training/TrainingRecord/Certificate/RahadianMs/64e6e9a961188358f8582af3/-420)
+
+---
+
+## 📢 Digital Marketing
+
+- 📲 [Digital Marketing – Jabar Digital Academy](https://sidebar.jabarprov.go.id/v/BDA2774D07)  
+- 🧠 [Bandung AI Camp: Digital Marketing with AI](https://sanbercode.com/certificate/em/dd48eb39-c54b-4077-a66c-1ba0b6c055e6)
+
+---
+
+## 🧩 Productivity & Microsoft Office
+
+- 📊 [Microsoft Excel for Beginners](https://pijarmahir.id/sertifikat/hZvKAIlgbU)  
+- 🎨 [Microsoft PowerPoint for Beginners](https://pijarmahir.id/sertifikat/mgHpoWqFDS)  
+- 📝 [Microsoft Word for Beginners](https://pijarmahir.id/sertifikat/JL4YM9IFye)
+
+---
+
+## 🇬🇧 English Skills
+
+- 💼 [English for Business Communication](https://drive.google.com/file/d/19VXbD1DpbsbWOYjpjbH0Io6U5Tndfjk_/view?usp=sharing)  
+- 📘 [English for Adults: High-Intermediate Levels](https://drive.google.com/file/d/19VXbD1DpbsbWOYjpjbH0Io6U5Tndfjk_/view?usp=sharing)  
+- 📝 [TOEFL Certification](https://drive.google.com/file/d/1-ysi8tERNm1YmfBP27h5t7yHy1OL7dwG/view?usp=sharing)
+
+---
+
+🧩 **Catatan:** Portofolio ini terus berkembang seiring perjalanan pembelajaran saya. Terima kasih telah menyimak!
