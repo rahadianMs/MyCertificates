@@ -29,7 +29,7 @@ Welcome to my certificate portfolio! Below is a collection of my achievements in
 - 🧪 [Belajar Machine Learning untuk Pemula](https://www.dicoding.com/certificates/81P27EQQ8ZOY)  
 - 🔍 [Belajar Fundamental Deep Learning (Dicoding)](https://www.dicoding.com/certificates/53XEDNOD9PRN)
 - 🏅 [IDCamp 2024: Data Scientist Intermediate Level](https://drive.google.com/file/d/1Xsf_vQB4WgYIM17jiEIRr0kn8bBAvE_t/view?usp=sharing)
-- 🏅 [IDCamp 2024: Data Scientist Expert Level](https://drive.google.com/file/d/1OHJH0E40k7d6UI_erGir1JfZpxMSyMa5/view?usp=drivesdk)
+- 🎖️ [IDCamp 2024: Data Scientist Expert Level](https://drive.google.com/file/d/1OHJH0E40k7d6UI_erGir1JfZpxMSyMa5/view?usp=drivesdk)
 - 📊 [Belajar Penerapan Data Science (Dicoding)](https://www.dicoding.com/certificates/53XED827VPRN) ⭐ 
 
 ### 📊 Data Analytics
