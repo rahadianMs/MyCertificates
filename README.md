@@ -18,6 +18,7 @@ Welcome to my certificate portfolio! Below is a collection of my achievements in
 - ✨ [AI Praktis untuk Produktivitas (Dicoding)](https://www.dicoding.com/certificates/N9ZO98ME6XG5)
 - 🧬 [Belajar Penggunaan Generative AI (Dicoding)](https://www.dicoding.com/certificates/1OP829WLVPQK)
 - 📝 [Prompt Engineering untuk Software Developer (Dicoding)](https://www.dicoding.com/certificates/1RXYEG76QZVM)
+- 💬 [ChatGPT Prompt Engineering for Developers (DeepLearning.AI)](https://learn.deeplearning.ai/accomplishments/7e98e28d-5c26-472f-b326-2056236fc6dc)
 - 🗣️ [RWS Linguistic Prompt Design Training](https://drive.google.com/file/d/1GZWe63sAxOewZ-avV8ZqYrRgWCzV-ohD/view?usp=drivesdk)
 - 🎓 [AI Master Trainers: AI Ready ASEAN (ASEAN Foundation)](https://drive.google.com/file/d/1xezIui3e2XcIM1gQVdkNjR-SNj_dQdgA/view)
 
@@ -29,6 +30,7 @@ Welcome to my certificate portfolio! Below is a collection of my achievements in
 - 🧑‍💻 [TensorFlow Developer Certificate](https://www.credential.net/4fb297c2-e92b-4618-b966-cf7d3ade9e99)
 - 📚 [Bangkit Academy ML Path 2023](https://drive.google.com/file/d/1WDPBGmuGGMhFINdQpwHKywcVhq4-3Q1i/view)
 - 🧠 [DeepLearning.AI TensorFlow Developer Professional Certificate](https://coursera.org/share/08f3a364c0e6f0f1be3dc5bb27979431)
+- 🔬 [TensorFlow: Advanced Techniques Specialization](https://www.coursera.org/account/accomplishments/specialization/XVUN78ZZGHB4)
 - 🧾 [Natural Language Processing Specialization](https://coursera.org/share/b8f8276735d752d02cf2b9be510035e8)
 - ☁️ [TensorFlow: Data and Deployment Specialization](https://coursera.org/share/fc02e07f79f1f8b6ae17f7ad2e08e443)
 - 🤖 [Machine Learning Specialization (Andrew Ng)](https://coursera.org/share/53267bb5104872981f99cd96ed18e2b1)
@@ -45,6 +47,9 @@ Welcome to my certificate portfolio! Below is a collection of my achievements in
 - 💾 [Microsoft Azure Data Fundamentals](https://drive.google.com/file/d/1ec509yioW5joh1FYtCnxoDl8-HFRMQM2/view)
 - 📊 [Belajar Dasar Visualisasi Data](https://www.dicoding.com/certificates/1RXY1Q5GQPVM)
 - 📉 [Belajar Analisis Data dengan Python](https://www.dicoding.com/certificates/QLZ9RWOGDP5D)
+- 🧮 [Belajar Fundamental Pemrosesan Data (Dicoding)](https://www.dicoding.com/certificates/81P2L0N1YZOY)
+- 📊 [Accenture North America — Data Analytics and Visualization Job Simulation (Forage)](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/T6kdcdKSTfg2aotxT/hzmoNKtzvAzXsEqx8_T6kdcdKSTfg2aotxT_c88fbL4eZ7qNeDfRf_1740195217675_completion_certificate.pdf)
+- ☁️ [ACA Big Data Certification (Alibaba Cloud)](https://aliyun-aps-cloud-public.oss-cn-hangzhou.aliyuncs.com/img_254ae94616022fcc0fa30eaa4b53e3ab.png)
 
 ---
 
@@ -60,11 +65,20 @@ Welcome to my certificate portfolio! Below is a collection of my achievements in
 
 ---
 
+## 🖧 Networking & Security
+
+- 🌐 [Networking Devices and Initial Configuration (Cisco)](https://www.credly.com/badges/decdee2c-9176-42ec-8cfe-a59b0637f50b/linked_in_profile)
+- 🔗 [Networking Basics (Cisco)](https://www.credly.com/badges/1c7bb166-3ff4-41d6-a522-7a88a591bf4a/linked_in_profile)
+- 🛡️ [Introduction to Cybersecurity (Cisco)](https://www.credly.com/badges/c92107a0-0b31-421e-8638-c083bebc0554/linked_in_profile)
+
+---
+
 ## 🌍 Urban & Regional Planning
 
 - 🧭 [First Expert Planner (Kualifikasi 6 – BNSP)](https://drive.google.com/file/d/1R2lO3_R0ywXyjEz3BT38wcykb7TC8ArX/view)
 - 🗺️ [Internship in Spatial Planning (INSPIRING)](https://drive.google.com/file/d/1Y_GZ0-PTF1Em-1G0Me7amAUofLI04ljG/view)
 - 🏕️ [Inspiring Bootcamp (MSIB)](https://drive.google.com/file/d/1my331ph87qbQYAxD-x2h4l_2Voyf5CMy/view)
+- 🤖 [Pengenalan Kecerdasan Artifisial Bagi Perencana (Bappenas RI)](https://drive.google.com/file/d/1JzK5pwb3HHoDBoyvIPyg1KAIOVrCol_H/view)
 
 ---
 
@@ -89,14 +103,6 @@ Welcome to my certificate portfolio! Below is a collection of my achievements in
 
 - 📲 [Digital Marketing – Jabar Digital Academy](https://sidebar.jabarprov.go.id/v/BDA2774D07)
 - 🧠 [Bandung AI Camp: Digital Marketing with AI](https://sanbercode.com/certificate/em/dd48eb39-c54b-4077-a66c-1ba0b6c055e6)
-
----
-
-## 🧩 Productivity & Microsoft Office
-
-- 📊 [Microsoft Excel for Beginners](https://pijarmahir.id/sertifikat/hZvKAIlgbU)
-- 🎨 [Microsoft PowerPoint for Beginners](https://pijarmahir.id/sertifikat/mgHpoWqFDS)
-- 📝 [Microsoft Word for Beginners](https://pijarmahir.id/sertifikat/JL4YM9IFye)
 
 ---
 
