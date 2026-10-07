@@ -93,6 +93,7 @@ Welcome to my certificate portfolio! Below is a collection of my achievements in
 
 ## 🌱 Sustainability & Entrepreneurship
 
+- 🌍 [GSTC Professional Certificate in Sustainable Tourism](https://drive.google.com/file/d/1leY02V8tzFLU9InLId__4WZwmesM0EsI/view)
 - 💚 [GDC2025: Green Digital Certificate Program (INCO Academy)](https://drive.google.com/file/d/1dxlRwFq_randwBxhGVPgFFV7pXUg8jX9/view)
 - 🚀 [Technology & Entrepreneurship Specialization (Arizona State University)](https://www.coursera.org/account/accomplishments/specialization/6DDCXA5S60MG)
 - 🎓 [My Digital Academy Workshop Certificate](https://drive.google.com/file/d/1CWAdB_s8vS1BwUM5GMVuZC_oy9ndhzFY/view)
